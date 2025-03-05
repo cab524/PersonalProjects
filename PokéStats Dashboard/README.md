@@ -12,3 +12,6 @@
 1. Download the PokéStats.pbix file (attached).
 2. Open the file in Power BI Desktop.
 3. Explore the Pokémon data through the interactive visuals.
+
+### License:
+#### This project is open for educational purposes only. Any use of copyrighted Pokémon images should comply with applicable usage policies.
