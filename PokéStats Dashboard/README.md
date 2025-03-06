@@ -3,7 +3,7 @@
 
 ### Features:
 - Interactive Filtering: Filter Pokémon by Generation, Type, or Name to instantly view their stats and images.
-- Pokémon Stats: Displays key information such as HP, Attack, Defense, Special Attack, Special Defense, and Speed.
+- Pokémon Stats: Displays key information such as Attack, Defense, HP, Speed, and Special Attack.
 - Images: See the Pokémon’s official sprite and get a visual overview.
 - User-Friendly Interface: Click on various filter options for a smooth, engaging experience.
 
