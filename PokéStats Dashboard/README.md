@@ -13,5 +13,10 @@
 2. Open the file in Power BI Desktop.
 3. Explore the Pokémon data through the interactive visuals.
 
+
+## Technical Details:
+- Data Source: The dashboard pulls data from the PokéAPI for real-time Pokémon stats and images.
+- Technology: Built using Power BI for seamless data visualization and interaction.
+
 ### License:
 #### This project is open for educational purposes only. Any use of copyrighted Pokémon images should comply with applicable usage policies.
